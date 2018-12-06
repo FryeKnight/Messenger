@@ -2,7 +2,7 @@ package com.FryeKnight.Messenger.Client;
 
 import com.FryeKnight.Messenger.Client.MainMenu;
 
-
+// АУЕ
 public class ClientMain {
     public static void main(String[] args) {
         int choice;
